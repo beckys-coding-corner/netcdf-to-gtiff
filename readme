@@ -1,0 +1,2 @@
+Rich: "that's how you convert ANY raster gis type gdal can open to a geotiff"
+Becky: "You don't even have to tell it it's netcdf"
